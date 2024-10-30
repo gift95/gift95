@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
+
+![GitHub账户信息统计]
+(https://github-stats.ubrong.com/api?username=BoomManager&show_icons=true&theme=tokyonight)
