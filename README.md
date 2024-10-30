@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=gift95&show_icons=true&theme=tokyonight)
+![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)
 # 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
 
