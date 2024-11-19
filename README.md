@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - [@WebSite](https://www.hnlyx.top)
 - [@Github](https://github.com/gift95)
 
-My skills
 
 ![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
 
