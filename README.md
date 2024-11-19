@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)
+
+![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
 # 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
