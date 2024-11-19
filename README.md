@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - [@Github](https://github.com/gift95)
 
 My skills
-![skills](https://skillicons.dev/icons?perline=6&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
+
+![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
 
 # 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
