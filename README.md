@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 # 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
 
+- [@WebSite](https://www.hnlyx.top) [@Github](https://github.com/gift95)
+
+![skills](https://skillicons.dev/icons?perline=14&i=php,vue,nodejs,py,golang,git,github,html,idea,js,linux,md,mysql,nginx,ps,redis,sqlite,tailwind,vercel,vite,vscode)
+
+---
+
+[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/gift95)
