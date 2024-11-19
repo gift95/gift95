@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)  ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
-
-# 访问次数
-![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
+![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)  
+![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
 - [@WebSite](https://www.hnlyx.top)
 - [@Github](https://github.com/gift95)
 
 ![skills](https://skillicons.dev/icons?perline=14&i=php,vue,nodejs,py,golang,git,github,html,idea,js,linux,md,mysql,nginx,ps,redis,sqlite,vercel,vscode)
+
+# 访问次数
+![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
 
 
