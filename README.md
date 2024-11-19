@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - [@WebSite](https://www.hnlyx.top)
 - [@Github](https://github.com/gift95)
 
-![skills](https://skillicons.dev/icons?perline=14&i=java,idea,vscode,git,github,html,js,vue,linux,md,nginx,ps,redis,oracle,mysql)
+My skills
+![skills](https://skillicons.dev/icons?perline=6&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
 
 # 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
