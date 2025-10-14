@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
 
 # 访问次数
-![Visitor Count](https://profile-counter.glitch.me/BoomManager/count.svg) 
+![Visitor Count](![](https://komarev.com/ghpvc/?username=gift95&abbreviated=true)) 
 
 
