@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)  
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
-- [@WebSite](https://www.hnlyx.top)
+- [@WebSite](https://www.yxliu.cc)
 - [@Github](https://github.com/gift95)
 
 
