@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)  
-![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
+
 
 - [@WebSite](https://www.yxliu.cc)
 - [@Github](https://github.com/gift95)
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
 
 # 访问次数
-![Visitor Count](![](https://komarev.com/ghpvc/?username=gift95&abbreviated=true)) 
+![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
 
