@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 # 访问次数
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
 
-<script async src="https://bsz.yxliu.cc/js"></script>
-本站总访问量 <span id="busuanzi_site_pv"></span> 次
-
