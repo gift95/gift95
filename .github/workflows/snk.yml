@@ -1,6 +1,6 @@
 name: generate animation
 
-于:
+on: 
   schedule:
     - cron: "0 12 * * *" # every 6 hours
   workflow_dispatch:
