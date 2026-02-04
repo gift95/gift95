@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub账户信息统计](https://github-readme-stats.vercel.app/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=flat&no-bg=true)  
+![GitHub账户信息统计](https://gitstats.yxliu.cc/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=onedark&no-bg=true)  
 
 
 - [@WebSite](https://www.yxliu.cc)
