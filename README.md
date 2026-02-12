@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub账户信息统计](https://gitstats.yxliu.cc/api?username=gift95&show_icons=true&theme=radical) 
-![GitHub账户信息统计](https://gitstats.yxliu.cc/api/top-langs/?username=gift95&layout=compact&hide_border=false&theme=onedark&no-bg=true)  
+![GitHub账户信息统计](https://gitstats.yxliu.cc/api/top-langs/?username=gift95&layout=donut&hide_border=false&theme=onedark&no-bg=true)  
 
 
 - [@WebSite](https://www.yxliu.cc)
