@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [@Github](https://github.com/gift95)
 
 
-![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,nano,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven)
+![skills](https://skillicons.dev/icons?perline=12&i=java,idea,vscode,git,github,html,js,vue,vim,linux,ubuntu,md,nginx,redis,mysql,docker,eclipse,maven,python,postgresql)
 
 # 访问次数
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=gift95&color=brightgreen)
